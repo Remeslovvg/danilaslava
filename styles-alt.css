@@ -8,3 +8,12 @@ td {
     background-color: #ffffff;
     border: 1px solid #aaa;
 }
+
+footer a {
+    text-decoration: none;
+    color: darkblue:
+}
+
+footer a:hover {
+    color: orange;
+}
