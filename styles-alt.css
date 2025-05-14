@@ -4,8 +4,7 @@ color: darkgreen;
 font-weight: bold;
 }
 
-th {
-    background-color: lightgray;
-    text-align: left;
-    padding: 10px;
+td {
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
 }
