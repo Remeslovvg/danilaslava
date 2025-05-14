@@ -3,3 +3,9 @@ font-size: 32px;
 color: darkgreen;
 font-weight: bold;
 }
+
+th {
+    background-color: lightgray;
+    text-align: left;
+    padding: 10px;
+}
