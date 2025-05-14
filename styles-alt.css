@@ -3,3 +3,8 @@ font-size: 32px;
 color: darkgreen;
 font-weight: bold;
 }
+
+td {
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+}
